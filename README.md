@@ -45,6 +45,12 @@ Graduate of a **BUT in Multimedia and Internet Technologies (MMI), GameWeb track
 
 My experience covers business applications, web development, game development and 3D creation, working both independently and as part of a team.
 
+## Achievement
+
+**1st Prize — Scientific Game Jam Nancy 2023**
+
+Created a game in 48 hours as part of a multidisciplinary team, based on a scientific research topic.
+
 ## Find me
 
 - Portfolio → [tiruu.github.io](https://tiruu.github.io)
