@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Lino Thebault
 
-<!--
-**Tiruu/Tiruu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Web Developer with a BUT MMI GameWeb background.
 
-Here are some ideas to get you started:
+I enjoy building web applications and interactive projects, with a particular
+interest in game development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+- HTML / CSS / JavaScript
+- React / TypeScript / Vite
+- PHP / SQL / MySQL
+- Git / GitHub
+- C# / Unity / Godot
+- Supabase / MapLibre
+
+## Featured projects
+
+### Stickmap
+Community mapping web app built with React, TypeScript, Supabase and MapLibre.
+
+### V&B Reservation
+Real-world reservation management tool developed for a V&B store with
+PHP, JavaScript and MySQL.
+
+### Fish — The Side-Quest Game
+Fishing adventure game built with Godot, featuring progression,
+achievements and data-driven content.
+
+## Links
+
+- Portfolio: https://tiruu.github.io
+- itch.io: https://tiruuslow.itch.io
