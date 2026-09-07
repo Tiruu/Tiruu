@@ -1,51 +1,51 @@
-# Lino Thebault — Développeur Web Junior
+# Lino Thebault — Junior Web Developer
 
-**BUT MMI · parcours GameWeb · France**
+**BUT MMI · GameWeb track · France**
 
-Je construis des applications web, des outils métier et des projets interactifs.
-Mon parcours GameWeb m’a aussi amené vers le développement de jeux vidéo et la création 3D.
+I build web applications, business tools and interactive projects.
+With a GameWeb background, I also work on game development and digital creation.
 
-Je cherche actuellement une **opportunité junior en développement web / applicatif**.
+I am currently looking for a **junior opportunity in web or application development**.
 
-## Ce que je fais
+## What I work with
 
-- **Développement web** — HTML, CSS, JavaScript, TypeScript, React, PHP, SQL
-- **Applications & données** — Supabase, MySQL, APIs, authentification, bases de données
-- **Outils & workflow** — Git, GitHub, Vite, Docker, XAMPP, Vercel
-- **Cartographie web** — MapLibre
+- **Web development** — HTML, CSS, JavaScript, TypeScript, React, PHP, SQL
+- **Applications & data** — Supabase, MySQL, APIs, authentication, databases
+- **Tools & workflow** — Git, GitHub, Vite, Docker, XAMPP, Vercel
+- **Web mapping** — MapLibre
 - **Game development** — C#, Unity, Godot
-- **Création numérique** — Blender, Aseprite
+- **Digital creation** — Blender, Aseprite
 
-## Projets
+## Selected projects
 
 ### Stickmap
-Application web communautaire de cartographie développée avec **React, TypeScript, Vite, Supabase et MapLibre**.
+Community web mapping application built with **React, TypeScript, Vite, Supabase and MapLibre**.
 
-Authentification, profils, contributions et gestion de données. Projet personnel construit pour travailler sur une application web complète, de l’interface aux services et aux données.
+Authentication, profiles, contributions and data management. A personal project focused on building a complete web application, from the interface to services and data.
 
-→ [Voir le projet](https://ultra-auxerre-map.vercel.app) · [Code source](https://github.com/Tiruu/ultra-stick-map)
+→ [Live project](https://ultra-auxerre-map.vercel.app) · [Source code](https://github.com/Tiruu/ultra-stick-map)
 
-### Gestion des réservations — V&B
-Outil métier développé dans un magasin V&B pour améliorer le suivi des réservations de tireuses.
+### V&B Reservation Management
+Business tool developed for a V&B store to improve the tracking and management of beer tap reservations.
 
-Développé avec **HTML, CSS, JavaScript, PHP et SQL**, sous XAMPP avec une base de données locale. Projet réalisé à partir d’un besoin opérationnel réel.
+Built with **HTML, CSS, JavaScript, PHP and SQL**, using XAMPP and a local database. Developed from a real operational need in a working store.
 
-→ [Code source](https://github.com/Tiruu/vandb-reservation)
+→ [Source code](https://github.com/Tiruu/vandb-reservation)
 
 ### Fish — The Side-Quest Game
-Jeu de pêche développé avec **Godot**, avec progression, collection, statistiques et succès.
+Fishing game built with **Godot**, featuring progression, collection, statistics and achievements.
 
-Projet personnel également disponible sur itch.io, avec une attention portée à l’expérience de jeu, aux systèmes de progression et à la création des assets.
+A personal game development project also available on itch.io, with a focus on gameplay systems, progression and asset creation.
 
-→ [Jouer / voir le projet](https://tiruuslow.itch.io/fish-the-side-quest-game) · [Code source](https://github.com/Tiruu/fish-the-side-quest-game)
+→ [Play / project page](https://tiruuslow.itch.io/fish-the-side-quest-game) · [Source code](https://github.com/Tiruu/fish-the-side-quest-game)
 
-## Parcours
+## Background
 
-Diplômé d’un **BUT Métiers du Multimédia et de l’Internet, parcours GameWeb**.
+Graduate of a **BUT in Multimedia and Internet Technologies (MMI), GameWeb track**.
 
-Mes expériences m’ont permis de travailler sur des applications métier, des projets web, des jeux vidéo et de la création 3D, en autonomie comme en équipe.
+My experience covers business applications, web development, game development and 3D creation, working both independently and as part of a team.
 
-## Me retrouver
+## Find me
 
 - Portfolio → [tiruu.github.io](https://tiruu.github.io)
 - GitHub → [github.com/Tiruu](https://github.com/Tiruu)
@@ -54,4 +54,4 @@ Mes expériences m’ont permis de travailler sur des applications métier, des 
 
 ---
 
-*Développement web en priorité. Game development en parallèle.*
+*Web development first. Game development on the side.*
