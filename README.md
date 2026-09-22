@@ -18,12 +18,12 @@ I am currently looking for a **junior opportunity in web or application developm
 
 ## Selected projects
 
-### Stickmap
+### Ultra Stick Map
 Community web mapping application built with **React, TypeScript, Vite, Supabase and MapLibre**.
 
 Authentication, profiles, contributions and data management. A personal project focused on building a complete web application, from the interface to services and data.
 
-→ [Live project](https://ultra-auxerre-map.vercel.app) · [Source code](https://github.com/Tiruu/ultra-stick-map)
+→ [Live project](https://ultra-stick-map.vercel.app) · [Source code](https://github.com/Tiruu/ultra-stick-map)
 
 ### V&B Reservation Management
 Business tool developed for a V&B store to improve the tracking and management of beer tap reservations.
@@ -37,7 +37,7 @@ Fishing game built with **Godot**, featuring progression, collection, statistics
 
 A personal game development project also available on itch.io, with a focus on gameplay systems, progression and asset creation.
 
-→ [Play / project page](https://tiruuslow.itch.io/fish-the-side-quest-game) · [Source code](https://github.com/Tiruu/fish-the-side-quest-game)
+→ [Play / project page](https://tiruuslow.itch.io/fish) · [Source code](https://github.com/Tiruu/fish-the-side-quest-game)
 
 ## Background
 
